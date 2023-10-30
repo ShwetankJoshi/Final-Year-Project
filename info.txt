@@ -1,0 +1,2 @@
+packages = responsive carousel = importing pre-defined carousel 
+ , axios = to make api calls  , cheerio = fast flexible library for parsing html and xml files  
