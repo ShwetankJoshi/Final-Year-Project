@@ -1,2 +1,12 @@
 packages = responsive carousel = importing pre-defined carousel 
  , axios = to make api calls  , cheerio = fast flexible library for parsing html and xml files  
+
+
+
+
+
+git init 
+git add .
+git commit -m "files added" 
+git remote add origin <GitHub link>
+git push -u origin master 
